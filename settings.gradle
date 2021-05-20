@@ -1,0 +1,7 @@
+include ':system_intent'
+include ':simple_fragment'
+include ':share'
+include ':result'
+include ':intent'
+include ':app'
+rootProject.name = "Practice_3"
